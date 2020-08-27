@@ -1,0 +1,39 @@
+{
+    "dir": "ltr",
+    "lang": "Persian",
+    "name": "چت روم آزادی",
+    "short_name": "چت روم آزادی",
+    "scope": "/acr/#contact",
+    "display": "minimal-ui",
+    "start_url": "https://ezrabro.github.io/acr",
+    "background_color": "#7300ff",
+    "theme_color": "transparent",
+    "description": "an friendly chat room",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://ezrabro.github.io/acr",
+    "screenshots": [
+        {
+            "src": "[Embedded]",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "750x1334",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ]
+}
